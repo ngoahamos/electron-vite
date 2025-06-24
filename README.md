@@ -1,4 +1,6 @@
-# anna-pos
+# electron-starter
+
+Electron + Vite + React + Tailwind + Shadcn + TypeScript + Dark Mode!
 
 An Electron application with React and TypeScript
 
